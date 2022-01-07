@@ -1,9 +1,9 @@
 # GOOGLE
 
-- [ ] https://leetcode.com/problems/longest-absolute-file-path
+- [x] https://leetcode.com/problems/longest-absolute-file-path
 - [ ] https://leetcode.com/problems/k-empty-slots
 - [ ] https://leetcode.com/problems/next-closest-time
-- [x] https://leetcode.com/problems/two-sum
+- [ ] https://leetcode.com/problems/two-sum
 - [ ] https://leetcode.com/problems/unique-email-addresses
 - [ ] https://leetcode.com/problems/fruit-into-baskets
 - [ ] https://leetcode.com/problems/license-key-formatting
